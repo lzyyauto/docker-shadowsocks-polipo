@@ -5,6 +5,8 @@ This Dockerfile builds an image with [sslocal](https://github.com/shadowsocks/sh
 
 upgrade from [docker-shadowsocks-polipo](https://github.com/liaoxiaorong/docker-shadowsocks-polipo)
 
+add $PASSMETHOD (e.g rc4-md5)
+
 because i can't update his docker images.
 
 You can pull it from [docker hub](https://hub.docker.com/r/lzyyauto/shadowsocks-polipo/)
